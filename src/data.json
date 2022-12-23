@@ -1,0 +1,44 @@
+[
+   {
+      "id": 1,
+      "region": "US",
+      "data": 290,
+      "Latitude": 34.0522,
+      "Longitude": -118.243683
+   },
+   {
+      "id": 2,
+      "region": "US",
+      "data": 490,
+      "Latitude": 40.7128,
+      "Longitude": -74.0060
+   },
+   {
+      "id": 3,
+      "region": "AT",
+      "data": 790,
+      "Latitude": 47.811195,
+      "Longitude": 13.033229
+   },
+   {
+      "id": 4,
+      "region": "SE",
+      "data": 590,
+      "Latitude": 59.3293,
+      "Longitude": 18.0686
+   },
+   {
+      "id": 5,
+      "region": "AT",
+      "data": 290,
+      "Latitude": 48.210033,
+      "Longitude": 16.363449
+   },
+   {
+      "id": 6,
+      "region": "SE",
+      "data": 390,
+      "Latitude": 60.1282,
+      "Longitude": 18.6435
+   }
+]
